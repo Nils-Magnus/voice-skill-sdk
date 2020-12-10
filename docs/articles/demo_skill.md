@@ -115,8 +115,7 @@ it as project’s Python interpreter.
 ![](images/pycharm1.png)
 
 Now let’s see what’s inside of our project:
-- **.venv**: Our virtual environment and Python interpreter.
-and required dependencies live there.
+- **.venv**: Our virtual environment. The Python interpreter and required dependencies live there.
 - **impl**: Short for **implementation** and actually contains our Python code.
 - **locale**: Contains translations to languages supported
 by the skill. Yes, your skill is capable of answering “Hello” in
